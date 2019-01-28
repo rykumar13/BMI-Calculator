@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial App</string>
+    <string name="edit_height">Enter your height</string>
+    <string name="button_send">Submit</string>
+</resources>
